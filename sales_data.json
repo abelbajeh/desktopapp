@@ -1,0 +1,44 @@
+{
+  "sales": [
+    {
+      "id": 2,
+      "animal": "Goat",
+      "price": 200000,
+      "quantity": 10,
+      "date": "2025-06-18",
+      "total": 2000000
+    },
+    {
+      "id": 4,
+      "animal": "Chicken",
+      "price": 25000,
+      "quantity": 11,
+      "date": "2025-06-25",
+      "total": 275000
+    },
+    {
+      "id": 7,
+      "animal": "Cattle",
+      "price": 120000,
+      "quantity": 23,
+      "date": "2025-07-05",
+      "total": 2760000
+    },
+    {
+      "id": 8,
+      "animal": "Cattle",
+      "price": 40000,
+      "quantity": 100,
+      "date": "2025-07-29",
+      "total": 4000000
+    },
+    {
+      "id": 9,
+      "animal": "Cattle",
+      "price": 2000,
+      "quantity": 2,
+      "date": "2025-07-29",
+      "total": 4000
+    }
+  ]
+}
